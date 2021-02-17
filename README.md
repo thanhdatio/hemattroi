@@ -1,7 +1,7 @@
-## Exercise - The revolution of the Milky Way
+## Exercise - The revolution of the Solar System
 
-#### Welcome to the Milky Way, the revolution of the sun, the earth and the moon.
+#### Welcome to the Solar System, the revolution of the sun, the earth and the moon.
 
 - **Milky Way Website**:
-[![Milky Way Website](photo.png "Milky Way Website")](https://quinhsieh.github.io/earth-orbit)
+[![Solar System Website](photo.png "Solar System Website")](https://quinhsieh.github.io/earth-orbit)
 
